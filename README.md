@@ -24,7 +24,7 @@
 ## 💝 Thanks to
 
 - [Ashish](https://github.com/asheeeshh)
-- This project was insired by [dracula/betterdiscord]("https://github.com/dracula/betterdiscord").
+- This project was insired by [dracula/betterdiscord](https://github.com/dracula/betterdiscord).
 
 &nbsp;
 
