@@ -44,13 +44,13 @@
     --background-mobile-primary: var(--catpuccin-background) !important;
     --background-mobile-secondary: var(--catpuccin-background) !important;
     --background-secondary-alt: var(--catpuccin-background) !important;
-    --background-tertiary: var(--catpuccin-background-alt) !important;
+    --background-tertiary: var(--catpuccin-current-line) !important;
     --background-accent: var(--catpuccin-current-line) !important;
     --background-floating: var(--catpuccin-background) !important;
     --background-modifier-selected: var(--catpuccin-current-line) !important;
     --activity-card-background: var(--catpuccin-background) !important;
     --interactive-normal: var(--catpuccin-foreground) !important;
-
+    --channeltextarea-background: var(--catpuccin-background-alt) !important;
     --rs-online-color: var(--catpuccin-green) !important;
     --rs-idle-color: var(--catpuccin-peach) !important;
     --rs-dnd-color: var(--catpuccin-red) !important;
